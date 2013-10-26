@@ -40,3 +40,6 @@
 [submodule "javascript/array-unique"]
 	path = javascript/array-unique
 	url = https://gist.github.com/505715.git
+[submodule "javascript/sort-factory"]
+	path = javascript/sort-factory
+	url = https://gist.github.com/1072537.git
