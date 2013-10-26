@@ -43,3 +43,6 @@
 [submodule "javascript/sort-factory"]
 	path = javascript/sort-factory
 	url = https://gist.github.com/1072537.git
+[submodule "javascript/sopa"]
+	path = javascript/sopa
+	url = https://gist.github.com/1481861.git
