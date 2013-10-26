@@ -1,1 +1,0 @@
-fork and solve: https://gist.github.com/752007
