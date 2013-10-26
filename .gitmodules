@@ -4,3 +4,45 @@
 [submodule "javascript/exercises"]
 	path = javascript/exercises
 	url = https://gist.github.com/752007.git
+[submodule "javascript/asp.net-ajax"]
+	path = javascript/asp.net-ajax
+	url = https://gist.github.com/773291.git
+[submodule "javascript/charcode"]
+	path = javascript/charcode
+	url = https://gist.github.com/811331.git
+[submodule "javascript/GetFormattedString"]
+	path = javascript/GetFormattedString
+	url = https://gist.github.com/1855776.git
+[submodule "javascript/iOS-Toolbar"]
+	path = javascript/iOS-Toolbar
+	url = https://gist.github.com/779203.git
+[submodule "javascript/loop-benchmarks"]
+	path = javascript/loop-benchmarks
+	url = https://gist.github.com/1671179.git
+[submodule "javascript/manual-postback"]
+	path = javascript/manual-postback
+	url = https://gist.github.com/572517.git
+[submodule "javascript/NameSpacify"]
+	path = javascript/NameSpacify
+	url = https://gist.github.com/1832198.git
+[submodule "javascript/papyrufy"]
+	path = javascript/papyrufy
+	url = https://gist.github.com/786878.git
+[submodule "javascript/preload-then-execute"]
+	path = javascript/preload-then-execute
+	url = https://gist.github.com/645372.git
+[submodule "javascript/progressive-images"]
+	path = javascript/progressive-images
+	url = https://gist.github.com/2039843.git
+[submodule "javascript/reGET"]
+	path = javascript/reGET
+	url = https://gist.github.com/765308.git
+[submodule "javascript/reusable-click"]
+	path = javascript/reusable-click
+	url = https://gist.github.com/507683.git
+[submodule "javascript/sort-factory"]
+	path = javascript/sort-factory
+	url = https://gist.github.com/1072537.git
+[submodule "javascript/array-unique"]
+	path = javascript/array-unique
+	url = https://gist.github.com/505715.git
