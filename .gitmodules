@@ -1,0 +1,3 @@
+[submodule "javascript/SOPA2"]
+	path = javascript/SOPA2
+	url = https://gist.github.com/1481861.git
