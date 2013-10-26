@@ -1,3 +1,6 @@
 [submodule "javascript/SOPA"]
 	path = javascript/SOPA
 	url = https://gist.github.com/1481861.git
+[submodule "javascript/exercises"]
+	path = javascript/exercises
+	url = https://gist.github.com/752007.git
